@@ -1,0 +1,66 @@
+{
+  "Bookings": [
+    {
+      "id": 1,
+      "checkin": "2024-04-23",
+      "guest": 2,
+      "rooms": 1
+    },
+    {
+      "checkin": "2024-05-29",
+      "checkout": "2024-05-30",
+      "rooms": "",
+      "guest": "",
+      "id": 2
+    },
+    {
+      "rooms": "2",
+      "guest": "3",
+      "checkin": "2024-05-30",
+      "checkout": "2024-05-01",
+      "id": 3
+    }
+  ],
+  "Guests": [
+    {
+      "id": 1,
+      "name": "Twinkle",
+      "email": "twinkle@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "demo1",
+      "email": "demo1@gmail.com",
+      "password": "111",
+      "id": 2
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ],
+  "query": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "comment": "we are about to join"
+    },
+    {
+      "name": "Twinkle Solanki",
+      "email": "solankitwinkle257@gmail.com",
+      "comment": "fix an appointment",
+      "id": 2
+    },
+    {
+      "name": "demo21",
+      "email": "demo21@gmail.com",
+      "comment": "new comment",
+      "id": 3
+    }
+  ]
+}
